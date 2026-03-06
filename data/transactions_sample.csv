@@ -1,0 +1,4 @@
+date,datetime,merchant,amount,type,source,raw,balance,category
+2026-02-10,2026-02-10T10:21:03,Swiggy,462.50,debit,SMS,"INR 462.50 debited via UPI: swiggy@okhdfcbank",23540.90,Food
+2026-02-11,2026-02-11T09:10:00,Amazon,5000.00,credit,SMS,"Rs. 5,000 credited by Amazon Refund",35000.00,Refunds
+2026-02-12,2026-02-12T19:31:49,Flipkart,1299.00,debit,SMS,"₹1,299.00 spent at Flipkart",12340.50,Shopping
